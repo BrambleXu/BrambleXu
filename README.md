@@ -66,12 +66,21 @@ I'm especially interested in the layer **around the model**: how agents use tool
 
 * ✍️ **[ja-ai-polish](https://github.com/BrambleXu/ja-ai-polish)**: An Agent Skill for writing natural Japanese and reducing templated AI-writing patterns while preserving facts, voice, and intent. ![GitHub stars](https://img.shields.io/github/stars/BrambleXu/ja-ai-polish?style=flat-square\&label=⭐)
 
+### Previous OSS Work
+
+Projects I developed or contributed to during my previous role:
+
+* 🏢 **[Japanese Company Lexicon](https://github.com/chakki-works/Japanese-Company-Lexicon)**: A high-coverage lexicon for Japanese company name recognition, developed as part of the ANLP 2020 work *High Coverage Lexicon for Japanese Company Name Recognition*. ![GitHub stars](https://img.shields.io/github/stars/chakki-works/Japanese-Company-Lexicon?style=flat-square\&label=⭐)
+
+* 🏷️ **[SeqAL](https://pypi.org/project/seqal/)**: A sequence labeling active learning framework based on Flair, designed to reduce annotation effort for named entity recognition and other sequence labeling tasks.
+
+* 🖼️ **[SegAL](https://pypi.org/project/segal/)**: An active learning framework for semantic segmentation, designed to support efficient data selection and annotation workflows.
+
 ## Books
 
 ### Translator
 
 * 📖 [用Python动手学强化学习](https://www.ituring.com.cn/book/2794)（[**Pythonで学ぶ強化学習**](https://www.amazon.co.jp/dp/4065172519)）
-
 
 ## Currently
 
@@ -80,7 +89,3 @@ Building at the intersection of:
 **AI Agents × Harness Engineering × Developer Tools × NLP**
 
 I like turning emerging agent ideas into small, practical tools and learning what actually works by building them.
-
----
-
-If you're also experimenting with agents, harnesses, NLP, or developer tooling, feel free to explore the repos or open an issue.
